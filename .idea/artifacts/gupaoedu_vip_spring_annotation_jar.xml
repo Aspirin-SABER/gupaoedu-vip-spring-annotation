@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gupaoedu-vip-spring-annotation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gupaoedu_vip_spring_annotation_jar</output-path>
+    <root id="archive" name="gupaoedu-vip-spring-annotation.jar" />
+  </artifact>
+</component>
